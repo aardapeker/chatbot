@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Step 1: Create virtual environment if it doesn't exist
 if [ ! -d ".venv" ]; then
   python3 -m venv .venv

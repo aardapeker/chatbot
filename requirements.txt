@@ -1,8 +1,9 @@
 streamlit
 python-dotenv
 PyPDF2
-langchain
-langchain-community
+langchain>=0.2.0
+langchain-openai
+langchain_community
 openai
 tiktoken
 faiss-cpu
